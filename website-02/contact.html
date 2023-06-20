@@ -8,18 +8,35 @@
 		<title>website 2</title>
 		<style>
 			body {
-			  background-color: cadetblue;
+			  background-color: darkseagreen;
 			  text-align: left;
 			}
 			nav {
-			  background-color: lightsteelblue;
+			  background-color: olive;
 			  text-align: center;
 			  padding: 15px;
 			}
 			a {
-				background-color: ivory;
-				color: lightsalmon;
+				background-color: rosybrown;
+				color: darkslategray;
 				padding: 10px;
+			}
+			div {
+				background-color: cadetblue;
+				text-align: left;
+				padding: 5px;
+			}
+
+			.half-size {
+				width: 50%;
+			}
+			.container1 {
+			  background-color: darkolivegreen;
+			  width: 700px;
+			  margin: auto;
+			  padding: 20px;
+			  border: 1px solid ivory;
+			  text-align: center;
 			}
 		</style>
 	</head>
@@ -30,6 +47,27 @@
 			<a href="./about.html">About</a>
 			<a href="./contact.html">Contact</a>
 		</nav>
+
+		<br><br>
+
+		<div class="container1">
+		<form action="https://example.com/registration.php" method="post">
+			What is your favorite color:
+				<input type="text" name="firstname" maxlength="10">
+
+				<br><br>
+
+			<p>Have you ever been made a bracelet like this?</p>
+  		<input type="radio" name="level" value="nondeg" /> YES! I love them
+  			<br />
+  		<input type="radio" name="level" value="undergrad" checked /> No :( but I will now!
+  			<br />
+  		</form>
+  		</div>
+
+  		<br><br>
+
+  		<
 
 		
 	</body>
