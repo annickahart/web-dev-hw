@@ -1,6 +1,14 @@
 h1 {
 	text-align: center;
 }
+.square {
+	font-family: monospace;
+	width: 50%;
+	height: 100px;
+}
+#brown {
+	background-color: #9C6615;
+}
 body {
 	background-color: #7F9C96;
 }
