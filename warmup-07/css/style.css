@@ -32,12 +32,22 @@ h3 {
 	font-weight: 50;
 	line-height: 0.5em;
 }
-p: firsr-letter {
+.link {
+	color: #dad7cd;
+	font-family: 'Barlow', sans-serif;
+	font-weight: bold;
+	position: absolute;
+	left: 10%;
+}
+p:firsr-letter {
 	font-family: 'Quintessential', cursive;
 }
 /*not sure why this first letter is not showing up on the site*/
-p {
-	font color: #283618;
-	font-family: 'Barlow', sans-serif;
-	font-weight: bold;
+a:link {
+	color: #c9b1bd;
+	text-decoration: none;
+}
+a:hover {
+	color: #db6c79;
+	font-style: italic;
 }
