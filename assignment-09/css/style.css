@@ -1,3 +1,19 @@
 h1 {
-	color: seagreen;
+	color: #264653;
+}
+.square {
+	width: 50%;
+	height: 100px;
+}
+#blue {
+	background-color: #2A9D8F;
+}
+#yellow {
+	background-color: #E9C46A;
+}
+#orange {
+	background-color: #F4A261;
+}
+#red {
+	background-color: #E76F51;
 }
