@@ -12,6 +12,14 @@ h1 {
 	background-color: #9C6615;
 	text-align: center;
 }
+#yellow {
+	background-color: #EBB912;
+	text-align: center;
+}
+#old {
+	position: absolute;
+	right: 40%;
+}
 
 body {
 	background-color: #7F9C96;
