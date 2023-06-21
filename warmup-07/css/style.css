@@ -7,10 +7,14 @@ body {
 	color: #344e41;
 	text-align: center;
 	padding: 5px;
-	font-family: 'Poiret One', cursive;
+	font-family: 'Barlow', sans-serif;
 }
 h1, h2{
 	color: #EDC531;
 	text-align: center;
 	font-family: 'Yeseva One', cursive;
+	font-weight: bolder;
+}
+p: firsr-letter {
+	font-family: 'Quintessential', cursive;
 }
