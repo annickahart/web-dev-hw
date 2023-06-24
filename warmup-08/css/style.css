@@ -2,6 +2,10 @@ body {
 	background-color: #eaeaea;
 	color: #;
 }
+a:link {
+	color: #6b705c;
+	text-decoration: none;
+}
 h1 {
 	color: #;
 	text-align: center;
@@ -26,8 +30,8 @@ h1 {
 
 }
 .link {
-	color: ;
-	text-align: ;
+	color: #6b705c;
+	text-align: left;
 	font-family: 'Lexend Peta', sans-serif;
 	font-weight: ;
 	font-size: ;
