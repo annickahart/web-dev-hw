@@ -37,7 +37,12 @@ h1 {
 	font-size: ;
 }
 .banner {
-	width: 55%;
-	height: auto;
+	position: relative;
+	top: 2em;
+	bottom: 75%;
+	left: ;
+	right: ;
+	margin: auto;
+
 	/*make sure photo is centerd*/
 }
