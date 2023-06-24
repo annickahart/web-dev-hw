@@ -7,13 +7,28 @@ h1 {
 	text-align: center;
 	font-family: 'Lexend Peta', sans-serif;
 	font-size: ;
+	margin: auto;
+	width: 300px;
+	border: 4px solid #6b705c;
+	border-color: #6b705c;
+	padding: 20px;
 }
-.text {
+.title {
 	background-color: ;
 	color:;
 	text-align: center;
 	padding: ;
 	font-family: ;
+	font-weight: ;
+	font-size: ;
+	border: ;
+	border-color: ;
+
+}
+.link {
+	color: ;
+	text-align: ;
+	font-family: 'Lexend Peta', sans-serif;
 	font-weight: ;
 	font-size: ;
 }
