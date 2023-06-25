@@ -17,6 +17,7 @@ h1 {
 	border-color: #6b705c;
 	padding: 20px;
 }
+
 .title {
 	background-color: ;
 	color:;
@@ -39,11 +40,18 @@ h1 {
 }
 .banner {
 	position: relative;
-	top: 2em;
+	top: -3em;
 	bottom: 75%;
 	left: ;
 	right: ;
 	margin: auto;
 
 	/*make sure photo is centerd*/
+}
+.image {
+	height: 100px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
 }
