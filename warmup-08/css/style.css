@@ -89,8 +89,16 @@ a:visited {
 .text2 {
 	text-align: right;
 	font-family: 'Josefin Sans', sans-serif;
-	color: #588157;
+	color: #373d20;
 	position: relative;
 	right: 240px;
+	bottom: 340px;
+}
+.text3 {
+	text-align: right;
+	font-family: 'Josefin Sans', sans-serif;
+	color: #373d20;
+	position: relative;
+	right: 170px;
 	bottom: 340px;
 }
