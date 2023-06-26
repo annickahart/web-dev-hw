@@ -26,6 +26,9 @@ p {
 	font-family: 'Lexend Peta', sans-serif;
 	color: #283618;
 }
+a:visited {
+	color: #6b705c;
+}
 
 .title {
 	background-color: #eaeaea;
