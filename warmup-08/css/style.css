@@ -24,8 +24,10 @@ h1 {
 p {
 	text-align: center;
 	font-family: 'Lexend Peta', sans-serif;
-	color: #283618;
+	color: #6b705c;
+	font-weight: bolder;
 }
+
 a:visited {
 	color: #6b705c;
 }
@@ -79,7 +81,16 @@ a:visited {
 .text1 {
 	text-align: center;
 	font-family: 'Lexend Peta', sans-serif;
-	color: #283618;
+	color: #588157;
 	margin-top: 16em;
-	font-weight: bold;
+	font-weight: bolder;
+}
+
+.text2 {
+	text-align: right;
+	font-family: 'Josefin Sans', sans-serif;
+	color: #588157;
+	position: relative;
+	right: 240px;
+	bottom: 340px;
 }
