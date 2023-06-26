@@ -108,7 +108,7 @@ a:visited {
 	align-items: right;
 	justify-content: right;
 	position: relative;
-    right: 120px;
+    left: -110px;
     top: -140px;
 }
 .text4 {
@@ -140,5 +140,14 @@ a:visited {
 
 }
 .text7 {
-	
+
+}
+.image5 {
+	height: 300px;
+	display: flex;
+	align-items: right;
+	justify-content: right;
+	position: relative;
+    left: -110px;
+    top: -50px;
 }
