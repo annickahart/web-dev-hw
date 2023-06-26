@@ -102,3 +102,12 @@ a:visited {
 	right: 170px;
 	bottom: 340px;
 }
+.image3 {
+	height: 400px;
+	display: flex;
+	align-items: right;
+	justify-content: right;
+	position: relative;
+    right: 120px;
+    top: -140px;
+}
