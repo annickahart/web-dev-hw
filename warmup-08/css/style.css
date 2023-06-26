@@ -111,3 +111,19 @@ a:visited {
     right: 120px;
     top: -140px;
 }
+.text4 {
+	text-align: left;
+	font-family: 'Josefin Sans', sans-serif;
+	color: #373d20;
+	position: relative;
+	left: 210px;
+	bottom: 430px;
+}
+.text5 {
+	text-align: left;
+	font-family: 'Josefin Sans', sans-serif;
+	color: #373d20;
+	position: relative;
+	left: 130px;
+	bottom: 400px;
+}
