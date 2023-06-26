@@ -49,6 +49,7 @@ a:visited {
 	font-weight: ;
 	font-size: ;
 	text-decoration: none;
+	padding: 10px;
 }
 .banner {
 	position: relative;
